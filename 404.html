@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>Gizem Akdağ</title>
+<script>
+  // Old Framer links (/about, /AI-works, /project-…) land on the new site instead of a dead page.
+  var p = location.pathname.toLowerCase().replace(/\/+$/, "");
+  location.replace(p === "/about" ? "/#/info" : /ai-works|branding|illustration|project-/.test(p) ? "/#/index" : "/");
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=/"></noscript>
+</head><body style="background:#34428a"></body></html>

@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "title": "Feather Bloom",
+      "year": "2026",
+      "category": "AI photograph",
+      "client": "",
+      "description": "A blue plume flower standing alone on a pale shoreline.",
+      "cover": "/uploads/feather.webp",
+      "tear_focus": "top",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Red Hills",
+      "year": "2026",
+      "category": "AI photograph",
+      "client": "",
+      "description": "Wind-combed scarlet hills beneath a resting cloud.",
+      "cover": "/uploads/hills.webp",
+      "tear_focus": "center",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Arcadia Eye",
+      "year": "2026",
+      "category": "AI illustration",
+      "client": "",
+      "description": "Temple gardens, concentric rings and a staircase that leads into stars.",
+      "cover": "/uploads/arcadia.webp",
+      "tear_focus": "center",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Fuji Bob",
+      "year": "2026",
+      "category": "AI portrait",
+      "client": "",
+      "description": "A portrait that wears the mountain as a haircut.",
+      "cover": "/uploads/fuji.webp",
+      "tear_focus": "top",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    }
+  ]
+}
