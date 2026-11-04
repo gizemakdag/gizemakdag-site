@@ -155,7 +155,7 @@ ul,ol{list-style:none}
 /* Store */
 .store-intro{padding-top:30px;max-width:520px;opacity:.8}
 .grid.store-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
-.grid.store-grid .thumb{aspect-ratio:3/2;background:rgba(255,255,255,.06)}
+.grid.store-grid .thumb{aspect-ratio:4/3;background:rgba(255,255,255,.06)}
 .store-grid a{display:block;width:100%;text-align:left}
 .store-grid a:hover .thumb img,.store-grid a:focus-visible .thumb img{transform:scale(1.06)}
 .store-grid a:focus-visible{outline:none}
