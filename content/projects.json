@@ -1,6 +1,48 @@
 {
   "projects": [
     {
+      "title": "Alo Yoga",
+      "year": "2026",
+      "category": "AI visuals",
+      "client": "Alo Yoga",
+      "description": "",
+      "cover": "/uploads/alo/court.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/alo/film-1.webp",
+          "video": "/uploads/alo/film-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-2.webp",
+          "video": "/uploads/alo/film-2.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-3.webp",
+          "video": "/uploads/alo/film-3.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-4.webp",
+          "video": "/uploads/alo/film-4.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/balls.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/waves.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Feather Bloom",
       "year": "2026",
       "category": "AI photograph",

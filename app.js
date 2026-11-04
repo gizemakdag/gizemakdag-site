@@ -238,9 +238,11 @@
     const link = $("p-link");
     if (p.link_url) { link.href = safeUrl(p.link_url); link.textContent = (p.link_label || "View project") + " ↗"; link.hidden = false; }
     else link.hidden = true;
-    const imgs = [{ image: p.cover, caption: "" }, ...(p.images || []).filter(x => x && x.image)];
+    const imgs = [{ image: p.cover, caption: "" }, ...(p.images || []).filter(x => x && (x.image || x.video))];
     $("p-media").innerHTML = imgs.map((m, k) => `
-      <figure><img src="${esc(src(m.image))}" alt="${esc(m.caption || p.title)}" ${k ? 'loading="lazy"' : ""} decoding="async">
+      <figure>${m.video
+        ? `<video src="${esc(src(m.video))}" ${m.image ? `poster="${esc(src(m.image))}"` : ""} controls playsinline preload="none" aria-label="${esc(m.caption || p.title)}"></video>`
+        : `<img src="${esc(src(m.image))}" alt="${esc(m.caption || p.title)}" ${k ? 'loading="lazy"' : ""} decoding="async">`}
       ${m.caption ? `<figcaption>${esc(m.caption)}</figcaption>` : ""}</figure>`).join("");
     document.title = `${p.title} — ${SITE.name || "Gizem Akdağ"}`;
   }
