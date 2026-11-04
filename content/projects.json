@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "title": "Daddy Yankee - La Postal",
+      "cover": "/uploads/cover_s_1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "Album Cover Art",
+      "client": "",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Alo Yoga",
       "cover": "/uploads/alo/court.webp",
       "tear_focus": "center",
