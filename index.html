@@ -1,12 +1,120 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex">
-  <title>Editor — Gizem Akdağ</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gizem Akdağ — Creative Director & AI Artist</title>
+<meta name="description" content="Portfolio of Gizem Akdağ, creative director, brand designer and AI artist. Every tear carries a project.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Gizem Akdağ — Creative Director & AI Artist">
+<meta property="og:description" content="Every tear carries a project. Catch one before it falls.">
+<meta property="og:image" content="https://gizemakdag.com/images/og.jpg">
+<meta property="og:url" content="https://gizemakdag.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gizakdag">
+<meta name="theme-color" content="#34428a">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="images/portrait.webp" as="image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+<main class="viewport" id="home" aria-label="Portfolio">
+  <div class="stage" id="stage">
+    <img class="portrait" src="images/portrait.webp" alt="Painted portrait of a woman with blue hair crying. Each tear holds a project.">
+    <div class="tears" id="tears"></div>
+  </div>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="ui ui-top">
+    <a class="mark" href="#/" id="mark">Gizem Akdağ</a>
+    <nav class="top-nav" aria-label="Main">
+      <ul class="socials" id="socials"></ul>
+      <button class="pill" data-open="index"><span id="nav-projects">Projects</span><span class="count" id="count" hidden></span></button>
+      <button class="pill solid" data-open="info" id="nav-info">Info</button>
+    </nav>
+  </header>
+
+  <aside class="ui ui-side">
+    <p class="hint" id="hint">Every tear carries a project.<br>Catch one before it falls.</p>
+    <p class="now-label" id="now-label">Falling now <span>· up next</span></p>
+    <ol class="now" id="now" aria-live="polite"></ol>
+    <a class="email" id="email-home" href="#"></a>
+    <div class="m-socials" id="m-socials"></div>
+  </aside>
+
+  <div class="tag" id="tag" aria-hidden="true"></div>
+  <noscript><p class="noscript">This portfolio needs JavaScript. Contact: hello@gizemakdag.com</p></noscript>
+</main>
+
+<!-- Project page -->
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="p-title" hidden>
+  <div class="sheet-inner">
+    <div class="sheet-bar">
+      <span class="sheet-num" id="p-num"></span>
+      <div class="sheet-actions">
+        <button class="btn" id="p-prev" aria-label="Previous project">←</button>
+        <button class="btn" id="p-next" aria-label="Next project">→</button>
+        <button class="btn close" data-close aria-label="Close project">Close</button>
+      </div>
+    </div>
+    <div class="project">
+      <div class="project-text reveal">
+        <h1 id="p-title"></h1>
+        <p class="project-desc" id="p-desc"></p>
+        <dl class="project-meta" id="p-meta"></dl>
+        <a class="ext" id="p-link" target="_blank" rel="noopener" hidden></a>
+      </div>
+      <div class="project-media reveal d2" id="p-media"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Index -->
+<section class="sheet" id="index" role="dialog" aria-modal="true" aria-labelledby="index-title" hidden>
+  <div class="sheet-inner">
+    <div class="sheet-bar">
+      <span class="sheet-num" id="index-title">Projects</span>
+      <div class="sheet-actions"><button class="btn close" data-close aria-label="Close index">Close</button></div>
+    </div>
+    <ol class="grid reveal" id="grid"></ol>
+  </div>
+</section>
+
+<!-- Info -->
+<section class="sheet" id="info" role="dialog" aria-modal="true" aria-labelledby="info-title" hidden>
+  <div class="sheet-inner">
+    <div class="sheet-bar">
+      <span class="sheet-num">Info</span>
+      <div class="sheet-actions"><button class="btn close" data-close aria-label="Close info">Close</button></div>
+    </div>
+    <div class="info">
+      <div class="reveal">
+        <h1 id="info-title"></h1>
+        <p class="info-role" id="info-role"></p>
+        <p class="info-about" id="info-about"></p>
+      </div>
+      <div class="info-cols reveal d2">
+        <div>
+          <h2>Contact</h2>
+          <a class="info-email" id="info-email" href="#"></a>
+          <p class="info-loc" id="info-loc"></p>
+        </div>
+        <div>
+          <h2>Elsewhere</h2>
+          <ul class="info-list" id="info-socials"></ul>
+        </div>
+        <div id="info-links-wrap">
+          <h2>Links</h2>
+          <ul class="info-list" id="info-links"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="app.js"></script>
 </body>
 </html>

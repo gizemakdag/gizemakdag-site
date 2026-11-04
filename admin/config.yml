@@ -2,7 +2,7 @@
 # After the GitHub repo exists, set `repo` to "your-github-username/repo-name".
 backend:
   name: github
-  repo: GITHUB_USERNAME/gizemakdag-site
+  repo: gizemakdag/gizemakdag-site
   branch: main
 
 site_url: https://gizemakdag.com
