@@ -32,6 +32,7 @@
     <a class="mark" href="#/" id="mark">Gizem Akdağ</a>
     <nav class="top-nav" aria-label="Main">
       <ul class="socials" id="socials"></ul>
+      <button class="pill" data-open="store" id="nav-store" hidden>Store</button>
       <button class="pill" data-open="index"><span id="nav-projects">Projects</span><span class="count" id="count" hidden></span></button>
       <button class="pill solid" data-open="info" id="nav-info">Info</button>
     </nav>
@@ -80,6 +81,18 @@
       <div class="sheet-actions"><button class="btn close" data-close aria-label="Close index">Close</button></div>
     </div>
     <ol class="grid reveal" id="grid"></ol>
+  </div>
+</section>
+
+<!-- Store -->
+<section class="sheet" id="store" role="dialog" aria-modal="true" aria-labelledby="store-title" hidden>
+  <div class="sheet-inner">
+    <div class="sheet-bar">
+      <span class="sheet-num" id="store-title">Store</span>
+      <div class="sheet-actions"><button class="btn close" data-close aria-label="Close store">Close</button></div>
+    </div>
+    <p class="store-intro reveal" id="store-intro" hidden></p>
+    <ol class="grid store-grid reveal" id="store-grid"></ol>
   </div>
 </section>
 

@@ -1,0 +1,56 @@
+{
+  "title": "Store",
+  "intro": "Midjourney style reference collections, prompts and ready-to-print posters.",
+  "store_url": "https://contra.com/gizemakdag/products",
+  "products": [
+    {
+      "title": "BUNDLE - Midjourney SREF Collection",
+      "price": "$200",
+      "image": "https://media.contra.com/image/upload/w_3900/tpltf8vly7bgmvga4nzb.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Midjourney SREF Collection - For Designers",
+      "price": "$55",
+      "image": "https://media.contra.com/image/upload/w_3900/jzrmwaunlhl5hifge1zb.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Midjourney SREF Collection - Illustration",
+      "price": "$55",
+      "image": "https://media.contra.com/image/upload/w_3900/o5x4yh7e2msjnndqamya.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Midjourney SREF Collection - Photorealism",
+      "price": "$60",
+      "image": "https://media.contra.com/image/upload/w_3900/x0gd5fpncrdyef0tu5sg.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Midjourney SREF Collection - Texture & Effect",
+      "price": "$55",
+      "image": "https://media.contra.com/image/upload/h_1000,w_1000/f0dlqtl2elqdnno8y81w.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Digital Poster - Ready to Print",
+      "price": "$115",
+      "image": "https://media.contra.com/image/upload/w_3900/xdfvgivrjylsmx1rvgni.avif",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    },
+    {
+      "title": "Midjourney Quick Prompts - with a --p code",
+      "price": "$20",
+      "image": "",
+      "url": "https://contra.com/gizemakdag/products",
+      "hidden": false
+    }
+  ]
+}

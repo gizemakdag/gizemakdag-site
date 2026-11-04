@@ -152,6 +152,16 @@ ul,ol{list-style:none}
 .project-media figcaption{margin-top:10px;text-transform:uppercase;opacity:.65;font-size:11px}
 .project-media .more{width:100%}
 
+/* Store */
+.store-intro{padding-top:30px;max-width:520px;opacity:.8}
+.store-grid .thumb{aspect-ratio:1/1;background:rgba(255,255,255,.06)}
+.store-grid a{display:block;width:100%;text-align:left}
+.store-grid a:hover .thumb img,.store-grid a:focus-visible .thumb img{transform:scale(1.06)}
+.store-grid a:focus-visible{outline:none}
+.store-grid a:focus-visible .cap{color:#fff}
+.store-grid .cap{display:grid;grid-template-columns:1fr auto;gap:12px;margin-top:14px;text-transform:uppercase;border-top:1px solid var(--line);padding-top:10px}
+.store-grid .cap .y{margin-left:0;opacity:1;white-space:nowrap}
+
 /* Index grid */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:34px 24px;padding-top:34px}
 .grid button{display:block;width:100%;text-align:left}

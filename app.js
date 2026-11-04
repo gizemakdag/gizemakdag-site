@@ -18,15 +18,20 @@
     .replace(/ı/g,"i").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"") || "project";
   const safeUrl = u => /^(https?:|mailto:)/i.test(u || "") ? u : (u ? "https://" + u.replace(/^\/+/, "") : "");
 
-  let PROJECTS = [], SITE = {};
+  let PROJECTS = [], SITE = {}, STORE = [], STORE_META = {};
   let cursor = 0, paused = false, hoverEl = null;
   const tearsEl = $("tears"), tag = $("tag");
 
   /* ---------------- data ---------------- */
   async function load() {
     const get = u => fetch(u, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(u); return r.json(); });
-    const [site, work] = await Promise.all([get("content/site.json"), get("content/projects.json")]);
+    const [site, work, shop] = await Promise.all([
+      get("content/site.json"), get("content/projects.json"),
+      get("content/store.json").catch(() => ({})),   // store is optional
+    ]);
     SITE = site || {};
+    STORE = (shop.products || []).filter(p => p && !p.hidden && p.title);
+    STORE_META = shop || {};
     const seen = new Set();
     PROJECTS = (work.projects || []).filter(p => p && !p.hidden && p.cover && p.title).map(p => {
       let slug = slugify(p.title), k = 2;
@@ -72,6 +77,20 @@
     const links = (SITE.links || []).filter(l => l.url);
     $("info-links").innerHTML = links.map(s => `<li>${linkHTML(s)}</li>`).join("");
     if (!links.length) $("info-links-wrap").remove();
+
+    // Store
+    if (STORE.length) {
+      const title = STORE_META.title || "Store";
+      $("nav-store").textContent = title;
+      $("nav-store").hidden = false;
+      $("store-title").textContent = `${title} — ${pad(STORE.length)}`;
+      if (STORE_META.intro) { $("store-intro").textContent = STORE_META.intro; $("store-intro").hidden = false; }
+      $("store-grid").innerHTML = STORE.map((p, i) => `
+        <li><a href="${esc(safeUrl(p.url || STORE_META.store_url))}" target="_blank" rel="noopener" aria-label="${esc(p.title)}${p.price ? ", " + esc(p.price) : ""}">
+          <div class="thumb">${p.image ? `<img src="${esc(src(p.image))}" alt="" loading="lazy" decoding="async">` : ""}</div>
+          <div class="cap"><span>${esc(p.title)}</span><span class="y">${esc(p.price || "")}</span></div>
+        </a></li>`).join("");
+    }
 
     // Index grid
     $("index-title").textContent = `${SITE.nav_projects || "Projects"} — ${pad(PROJECTS.length)}`;
@@ -295,6 +314,7 @@
       if (i < 0) return go("");
       fillProject(i); show($("sheet"), from);
     } else if (r === "index") { show($("index"), from); }
+    else if (r === "store" && STORE.length) { show($("store"), from); }
     else if (r === "info") { show($("info"), from); }
     else hide();
   }

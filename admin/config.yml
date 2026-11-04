@@ -73,6 +73,32 @@ collections:
               - { name: link_url, label: External link URL, widget: string, required: false }
               - { name: hidden, label: Hide from the site, widget: boolean, default: false, required: false }
 
+  - name: shop
+    label: Store
+    files:
+      - name: store
+        label: Store products
+        file: content/store.json
+        format: json
+        fields:
+          - { name: title, label: Tab name, widget: string, default: Store }
+          - { name: intro, label: Intro line, widget: text, required: false }
+          - { name: store_url, label: Default store link, widget: string, required: false, hint: "Used for products that have no link of their own." }
+          - name: products
+            label: Products
+            label_singular: Product
+            widget: list
+            summary: "{{fields.title}} · {{fields.price}}"
+            thumbnail: image
+            add_to_top: true
+            collapsed: true
+            fields:
+              - { name: title, label: Title, widget: string }
+              - { name: price, label: Price, widget: string, required: false, hint: "e.g. $55" }
+              - { name: image, label: Image, widget: image, required: false }
+              - { name: url, label: Buy link, widget: string, required: false }
+              - { name: hidden, label: Hide from the site, widget: boolean, default: false, required: false }
+
   - name: settings
     label: Site settings
     files:
