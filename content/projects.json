@@ -2,32 +2,32 @@
   "projects": [
     {
       "title": "Alo Yoga",
+      "cover": "/uploads/alo/court.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI visuals",
       "client": "Alo Yoga",
       "description": "",
-      "cover": "/uploads/alo/court.webp",
-      "tear_focus": "center",
       "images": [
         {
-          "image": "/uploads/alo/film-1.webp",
-          "video": "/uploads/alo/film-1.mp4",
-          "caption": ""
-        },
-        {
           "image": "/uploads/alo/film-2.webp",
-          "video": "/uploads/alo/film-2.mp4",
-          "caption": ""
+          "caption": "",
+          "video": "/uploads/alo/film-2.mp4"
         },
         {
           "image": "/uploads/alo/film-3.webp",
-          "video": "/uploads/alo/film-3.mp4",
-          "caption": ""
+          "caption": "",
+          "video": "/uploads/alo/film-3.mp4"
         },
         {
           "image": "/uploads/alo/film-4.webp",
-          "video": "/uploads/alo/film-4.mp4",
-          "caption": ""
+          "caption": "",
+          "video": "/uploads/alo/film-4.mp4"
+        },
+        {
+          "image": "/uploads/alo/film-1.webp",
+          "caption": "",
+          "video": "/uploads/alo/film-1.mp4"
         },
         {
           "image": "/uploads/alo/balls.webp",
@@ -44,12 +44,12 @@
     },
     {
       "title": "Feather Bloom",
+      "cover": "/uploads/feather.webp",
+      "tear_focus": "top",
       "year": "2026",
       "category": "AI photograph",
       "client": "",
       "description": "A blue plume flower standing alone on a pale shoreline.",
-      "cover": "/uploads/feather.webp",
-      "tear_focus": "top",
       "images": [],
       "link_label": "",
       "link_url": "",
@@ -57,12 +57,12 @@
     },
     {
       "title": "Red Hills",
+      "cover": "/uploads/hills.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI photograph",
       "client": "",
       "description": "Wind-combed scarlet hills beneath a resting cloud.",
-      "cover": "/uploads/hills.webp",
-      "tear_focus": "center",
       "images": [],
       "link_label": "",
       "link_url": "",
@@ -70,12 +70,12 @@
     },
     {
       "title": "Arcadia Eye",
+      "cover": "/uploads/arcadia.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI illustration",
       "client": "",
       "description": "Temple gardens, concentric rings and a staircase that leads into stars.",
-      "cover": "/uploads/arcadia.webp",
-      "tear_focus": "center",
       "images": [],
       "link_label": "",
       "link_url": "",
@@ -83,12 +83,12 @@
     },
     {
       "title": "Fuji Bob",
+      "cover": "/uploads/fuji.webp",
+      "tear_focus": "top",
       "year": "2026",
       "category": "AI portrait",
       "client": "",
       "description": "A portrait that wears the mountain as a haircut.",
-      "cover": "/uploads/fuji.webp",
-      "tear_focus": "top",
       "images": [],
       "link_label": "",
       "link_url": "",
