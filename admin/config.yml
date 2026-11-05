@@ -5,8 +5,8 @@ backend:
   repo: gizemakdag/gizemakdag-site
   branch: main
 
-site_url: https://gizemakdag.com
-display_url: https://gizemakdag.com
+site_url: "https://gizemakdag.com"
+display_url: "https://gizemakdag.com"
 logo:
   src: /images/favicon.svg
 
