@@ -2,35 +2,41 @@
   "projects": [
     {
       "title": "PLAID",
+      "cover": "/uploads/plaid/plaid-02.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Plaid",
       "description": "",
-      "cover": "/uploads/plaid/plaid-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/plaid/plaid-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/plaid/plaid-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/plaid/plaid-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/plaid/plaid-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/plaid/plaid-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/plaid/plaid-07.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -40,12 +46,12 @@
     },
     {
       "title": "Macklemore - Good Old Days",
+      "cover": "/uploads/macklemore/macklemore-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "Concert Video",
       "client": "Macklemore",
       "description": "Macklemore - Good Old Days concert video",
-      "cover": "/uploads/macklemore/macklemore-01.webp",
-      "tear_focus": "center",
       "images": [],
       "link_label": "",
       "link_url": "",
@@ -53,27 +59,31 @@
     },
     {
       "title": "Adobe Firefly x Times Square",
+      "cover": "/uploads/firefly-times-square/firefly-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Artworks",
       "client": "Adobe Firefly",
       "description": "",
-      "cover": "/uploads/firefly-times-square/firefly-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/firefly-times-square/firefly-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/firefly-times-square/firefly-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/firefly-times-square/firefly-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/firefly-times-square/firefly-05.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -83,19 +93,21 @@
     },
     {
       "title": "Atalanta B.C.",
+      "cover": "/uploads/atalanta/atalanta-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Atalanta B.C.",
       "description": "",
-      "cover": "/uploads/atalanta/atalanta-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/atalanta/atalanta-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/atalanta/atalanta-03.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -105,19 +117,21 @@
     },
     {
       "title": "PAMA KUWAIT",
+      "cover": "/uploads/pama-kuwait/pama-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "PAMA KUWAIT",
       "description": "",
-      "cover": "/uploads/pama-kuwait/pama-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/pama-kuwait/pama-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/pama-kuwait/pama-03.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -127,12 +141,12 @@
     },
     {
       "title": "Opening Film for The German Creative Economy Summit 2026",
+      "cover": "/uploads/gces/cover.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "",
       "client": "GCES",
       "description": "Art Director: Ege Berkin Akdağ",
-      "cover": "/uploads/gces/cover.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/gces/opening-film.webp",
@@ -146,19 +160,21 @@
     },
     {
       "title": "Ikinita",
+      "cover": "/uploads/ikinita/pink.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "",
       "client": "Ikinita",
       "description": "",
-      "cover": "/uploads/ikinita/pink.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/ikinita/beige.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/ikinita/sailboat.webp",
+          "video": "",
           "caption": ""
         },
         {
@@ -183,43 +199,51 @@
     },
     {
       "title": "Tour de France - Helmet Design",
+      "cover": "/uploads/tour-de-france/helmet-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "",
       "client": "UAE Team Emirates",
       "description": "",
-      "cover": "/uploads/tour-de-france/helmet-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/tour-de-france/helmet-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-08.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/tour-de-france/helmet-09.webp",
+          "video": "",
           "caption": ""
         }
       ],
