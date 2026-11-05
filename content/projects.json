@@ -1,6 +1,43 @@
 {
   "projects": [
     {
+      "title": "Ikinita",
+      "year": "2026",
+      "category": "",
+      "client": "Ikinita",
+      "description": "",
+      "cover": "/uploads/ikinita/pink.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/ikinita/beige.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/ikinita/sailboat.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/ikinita/film-1.webp",
+          "video": "/uploads/ikinita/film-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/ikinita/film-2.webp",
+          "video": "/uploads/ikinita/film-2.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/ikinita/film-3.webp",
+          "video": "/uploads/ikinita/film-3.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Tour de France - Helmet Design",
       "year": "2026",
       "category": "",
