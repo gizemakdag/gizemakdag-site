@@ -1,6 +1,35 @@
 {
   "projects": [
     {
+      "title": "Hebbia",
+      "cover": "/uploads/hebbia_1v.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "World building and AI Images",
+      "client": "Hebbia",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/hebbia_3v.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/hebbia_5h_1.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/hebbia_1v-1.webp",
+          "video": "",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "https://www.hebbia.com/",
+      "hidden": false
+    },
+    {
       "title": "Donde Esteban",
       "cover": "/uploads/donde-esteban-x-gizem-akdag-1.webp",
       "tear_focus": "center",
@@ -64,70 +93,87 @@
       "images": [
         {
           "image": "/uploads/daddy-yankee/la-postal-01.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-08.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-09.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-10.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-11.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-12.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-13.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-14.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-15.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-16.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/daddy-yankee/la-postal-17.webp",
+          "video": "",
           "caption": ""
         }
       ],
