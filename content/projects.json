@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "title": "Macklemore - Good Old Days",
+      "year": "2026",
+      "category": "Concert Video",
+      "client": "Macklemore",
+      "description": "Macklemore - Good Old Days concert video",
+      "cover": "/uploads/macklemore/macklemore-01.webp",
+      "tear_focus": "center",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Adobe Firefly x Times Square",
       "year": "2026",
       "category": "AI Artworks",
