@@ -1,6 +1,35 @@
 {
   "projects": [
     {
+      "title": "Donde Esteban",
+      "cover": "/uploads/donde-esteban-x-gizem-akdag-1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Photography",
+      "client": "Donde Esteban",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/donde-esteban-x-gizem-akdag-3.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/donde-esteban-x-gizem-akdag-2.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "",
+          "video": "",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Google Flow - \"DREAM\"",
       "cover": "/uploads/dream-image-1.webp",
       "tear_focus": "center",
