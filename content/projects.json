@@ -37,7 +37,13 @@
       "category": "AI Movie",
       "client": "Google",
       "description": "",
-      "images": [],
+      "images": [
+        {
+          "image": "/uploads/dream/dream.webp",
+          "video": "/uploads/dream/dream.mp4",
+          "caption": ""
+        }
+      ],
       "link_label": "",
       "link_url": "https://youtu.be/kia4T3Lylew?si=ugbKVceWN5_tszad",
       "hidden": false
