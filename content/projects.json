@@ -1,6 +1,25 @@
 {
   "projects": [
     {
+      "title": "Opening Film for The German Creative Economy Summit 2026",
+      "year": "2026",
+      "category": "",
+      "client": "GCES",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "cover": "/uploads/gces/cover.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/gces/opening-film.webp",
+          "video": "/uploads/gces/opening-film.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Ikinita",
       "year": "2026",
       "category": "",
