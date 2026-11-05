@@ -1,6 +1,64 @@
 {
   "projects": [
     {
+      "title": "ZapConnect 2026",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Zapier",
+      "description": "",
+      "cover": "/uploads/zapconnect/zapconnect-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/zapconnect/zapconnect-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-09.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-10.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-11.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect/zapconnect-12.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "PLAID",
       "cover": "/uploads/plaid/plaid-02.webp",
       "tear_focus": "center",
