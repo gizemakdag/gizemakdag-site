@@ -1,6 +1,36 @@
 {
   "projects": [
     {
+      "title": "Adobe Firefly x Times Square",
+      "year": "2026",
+      "category": "AI Artworks",
+      "client": "Adobe Firefly",
+      "description": "",
+      "cover": "/uploads/firefly-times-square/firefly-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/firefly-times-square/firefly-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/firefly-times-square/firefly-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/firefly-times-square/firefly-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/firefly-times-square/firefly-05.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Atalanta B.C.",
       "year": "2026",
       "category": "AI Visuals",
