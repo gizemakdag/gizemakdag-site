@@ -61,7 +61,76 @@
       "category": "Album Cover Art",
       "client": "",
       "description": "",
-      "images": [],
+      "images": [
+        {
+          "image": "/uploads/daddy-yankee/la-postal-01.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-09.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-10.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-11.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-12.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-13.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-14.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-15.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-16.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-17.webp",
+          "caption": ""
+        }
+      ],
       "link_label": "",
       "link_url": "",
       "hidden": false
