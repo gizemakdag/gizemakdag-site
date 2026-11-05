@@ -1,6 +1,28 @@
 {
   "projects": [
     {
+      "title": "PAMA KUWAIT",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "PAMA KUWAIT",
+      "description": "",
+      "cover": "/uploads/pama-kuwait/pama-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/pama-kuwait/pama-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/pama-kuwait/pama-03.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Opening Film for The German Creative Economy Summit 2026",
       "year": "2026",
       "category": "",
