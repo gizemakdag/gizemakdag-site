@@ -1,6 +1,28 @@
 {
   "projects": [
     {
+      "title": "Atalanta B.C.",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Atalanta B.C.",
+      "description": "",
+      "cover": "/uploads/atalanta/atalanta-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/atalanta/atalanta-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/atalanta/atalanta-03.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "PAMA KUWAIT",
       "year": "2026",
       "category": "AI Visuals",
