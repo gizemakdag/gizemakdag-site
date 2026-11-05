@@ -1,6 +1,52 @@
 {
   "projects": [
     {
+      "title": "Tour de France - Helmet Design",
+      "year": "2026",
+      "category": "",
+      "client": "UAE Team Emirates",
+      "description": "",
+      "cover": "/uploads/tour-de-france/helmet-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/tour-de-france/helmet-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-09.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Hebbia",
       "cover": "/uploads/hebbia_1v.webp",
       "tear_focus": "center",
