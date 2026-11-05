@@ -1,6 +1,44 @@
 {
   "projects": [
     {
+      "title": "PLAID",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Plaid",
+      "description": "",
+      "cover": "/uploads/plaid/plaid-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/plaid/plaid-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/plaid/plaid-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/plaid/plaid-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/plaid/plaid-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/plaid/plaid-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/plaid/plaid-07.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Macklemore - Good Old Days",
       "year": "2026",
       "category": "Concert Video",
