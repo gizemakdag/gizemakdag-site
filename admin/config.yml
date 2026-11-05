@@ -67,8 +67,8 @@ collections:
                 summary: "{{fields.caption}}"
                 thumbnail: image
                 fields:
-                  - { name: image, label: Image (for a video: its poster frame), widget: image, required: false }
-                  - { name: video, label: Video (optional, MP4 under 90 MB), widget: file, required: false }
+                  - { name: image, label: "Image (for a video: its poster frame)", widget: image, required: false }
+                  - { name: video, label: "Video (optional, MP4 under 90 MB)", widget: file, required: false }
                   - { name: caption, label: Caption, widget: string, required: false }
               - { name: link_label, label: External link text, widget: string, required: false, hint: "e.g. Watch the film" }
               - { name: link_url, label: External link URL, widget: string, required: false }
