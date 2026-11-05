@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "title": "Google Flow - \"DREAM\"",
+      "cover": "/uploads/dream-image-1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Movie",
+      "client": "Google",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "https://youtu.be/kia4T3Lylew?si=ugbKVceWN5_tszad",
+      "hidden": false
+    },
+    {
       "title": "Daddy Yankee - La Postal",
       "cover": "/uploads/cover_s_1.webp",
       "tear_focus": "center",
@@ -24,30 +37,32 @@
       "images": [
         {
           "image": "/uploads/alo/film-2.webp",
-          "caption": "",
-          "video": "/uploads/alo/film-2.mp4"
+          "video": "/uploads/alo/film-2.mp4",
+          "caption": ""
         },
         {
           "image": "/uploads/alo/film-3.webp",
-          "caption": "",
-          "video": "/uploads/alo/film-3.mp4"
+          "video": "/uploads/alo/film-3.mp4",
+          "caption": ""
         },
         {
           "image": "/uploads/alo/film-4.webp",
-          "caption": "",
-          "video": "/uploads/alo/film-4.mp4"
+          "video": "/uploads/alo/film-4.mp4",
+          "caption": ""
         },
         {
           "image": "/uploads/alo/film-1.webp",
-          "caption": "",
-          "video": "/uploads/alo/film-1.mp4"
+          "video": "/uploads/alo/film-1.mp4",
+          "caption": ""
         },
         {
           "image": "/uploads/alo/balls.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/alo/waves.webp",
+          "video": "",
           "caption": ""
         }
       ],
