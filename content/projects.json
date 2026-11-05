@@ -20,8 +20,13 @@
           "caption": ""
         },
         {
-          "image": "",
-          "video": "",
+          "image": "/uploads/esteban/film-1.webp",
+          "video": "/uploads/esteban/film-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/esteban/film-2.webp",
+          "video": "/uploads/esteban/film-2.mp4",
           "caption": ""
         }
       ],
