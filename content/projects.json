@@ -2,43 +2,51 @@
   "projects": [
     {
       "title": "Sibel Can",
+      "cover": "/uploads/sibel-can/sibel-can-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Sibel Can",
       "description": "",
-      "cover": "/uploads/sibel-can/sibel-can-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/sibel-can/sibel-can-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-08.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/sibel-can/sibel-can-09.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -48,7 +56,7 @@
     },
     {
       "title": "ZapConnect 2026",
-      "cover": "/uploads/zapconnect/zapconnect-11.webp",
+      "cover": "/uploads/zapconnect/zapconnect-05.webp",
       "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
@@ -112,10 +120,12 @@
         },
         {
           "image": "/uploads/zapconnect/zapconnect-13.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/zapconnect/zapconnect-14.webp",
+          "video": "",
           "caption": ""
         },
         {
