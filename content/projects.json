@@ -1,6 +1,25 @@
 {
   "projects": [
     {
+      "title": "ARP FRIQUE & THE PERPETUAL SINGERS, LIVE TOGETHER LIVE",
+      "year": "2025",
+      "category": "AI Video",
+      "client": "ARP FRIQUE & THE PERPETUAL SINGERS",
+      "description": "",
+      "cover": "/uploads/arp/arp-poster.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/arp/arp-poster.webp",
+          "video": "/uploads/arp/arp-video.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Perplexity Radio",
       "year": "2026",
       "category": "AI Visuals",
