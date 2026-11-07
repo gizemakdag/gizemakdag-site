@@ -100,5 +100,33 @@
       "logo": "/uploads/clients/contra.webp",
       "height": 29
     }
+  ],
+  "explorations_title": "AI explorations",
+  "explorations": [
+    {
+      "title": "Exploration 01",
+      "video": "/uploads/explorations/exploration-01.mp4",
+      "poster": "/uploads/explorations/exploration-01-poster.webp"
+    },
+    {
+      "title": "Exploration 02",
+      "video": "/uploads/explorations/exploration-02.mp4",
+      "poster": "/uploads/explorations/exploration-02-poster.webp"
+    },
+    {
+      "title": "Exploration 03",
+      "video": "/uploads/explorations/exploration-03.mp4",
+      "poster": "/uploads/explorations/exploration-03-poster.webp"
+    },
+    {
+      "title": "Exploration 04",
+      "video": "/uploads/explorations/exploration-04.mp4",
+      "poster": "/uploads/explorations/exploration-04-poster.webp"
+    },
+    {
+      "title": "Exploration 05",
+      "video": "/uploads/explorations/exploration-05.mp4",
+      "poster": "/uploads/explorations/exploration-05-poster.webp"
+    }
   ]
 }
