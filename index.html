@@ -18,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=1794074892">
+<link rel="stylesheet" href="style.css?v=1794075204">
 </head>
 <body>
 <main class="viewport" id="home" aria-label="Portfolio">
@@ -81,8 +81,17 @@
       <div class="sheet-actions"><button class="btn close" data-close aria-label="Close index">Close</button></div>
     </div>
     <ol class="grid reveal" id="grid"></ol>
+    <div class="xp reveal d2" id="xp-wrap" hidden>
+      <div class="xp-head"><h2 id="xp-title">AI explorations</h2><span id="xp-count"></span></div>
+      <ul class="xp-strip" id="xp"></ul>
+    </div>
   </div>
 </section>
+
+<div class="xlb" id="xlb" hidden>
+  <button class="btn" id="xlb-close" aria-label="Close video">Close</button>
+  <video id="xlb-video" controls playsinline></video>
+</div>
 
 <!-- Store -->
 <section class="sheet" id="store" role="dialog" aria-modal="true" aria-labelledby="store-title" hidden>
@@ -132,6 +141,6 @@
   </div>
 </section>
 
-<script src="app.js?v=1794074892"></script>
+<script src="app.js?v=1794075204"></script>
 </body>
 </html>

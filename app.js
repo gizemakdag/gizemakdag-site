@@ -108,6 +108,30 @@
         <div class="thumb"><img src="${esc(src(p.cover))}" alt="" loading="lazy" decoding="async" style="object-position:${FOCUS[p.tear_focus] || FOCUS.center}"></div>
         <div class="cap"><span class="n">${pad(i + 1)}</span><span>${esc(p.title)}</span><span class="y">${esc(p.year || "")}</span></div>
       </button></li>`).join("");
+    const xs = (SITE.explorations || []).filter(x => x && x.video);
+    if (xs.length) {
+      $("xp-wrap").hidden = false;
+      $("xp-title").textContent = SITE.explorations_title || "AI explorations";
+      $("xp-count").textContent = "Collabs · " + pad(xs.length);
+      $("xp").innerHTML = xs.map((x, i) => {
+        const who = x.collab ? (x.collab_url ? `<a href="${esc(x.collab_url)}" target="_blank" rel="noopener">w/ ${esc(x.collab)}</a>` : `w/ ${esc(x.collab)}`) : "";
+        const poster = x.poster ? ` poster="${esc(src(x.poster))}"` : "";
+        return `<li><button class="xp-tile" data-x="${i}" aria-label="Play ${esc(x.title || "video")}"><video src="${esc(src(x.video))}${x.poster ? "" : "#t=0.1"}"${poster} muted loop playsinline preload="metadata"></video><i aria-hidden="true">▶</i></button>
+          <div class="xp-cap"><span>${esc(x.title || "")}</span><span class="who">${who}</span></div></li>`;
+      }).join("");
+      const lb = $("xlb"), lv = $("xlb-video");
+      const closeLb = () => { lv.pause(); lv.removeAttribute("src"); lv.load(); lb.hidden = true; };
+      $("xlb-close").addEventListener("click", closeLb);
+      lb.addEventListener("click", e => { if (e.target === lb) closeLb(); });
+      addEventListener("keydown", e => { if (e.key === "Escape" && !lb.hidden) { e.stopImmediatePropagation(); closeLb(); } }, true);
+      const strip = $("xp");
+      strip.addEventListener("mouseover", e => { const t = e.target.closest(".xp-tile"); if (t && matchMedia("(hover:hover)").matches) t.querySelector("video").play().catch(() => {}); });
+      strip.addEventListener("mouseout", e => { const t = e.target.closest(".xp-tile"); if (t && !t.contains(e.relatedTarget)) { const v = t.querySelector("video"); v.pause(); } });
+      strip.addEventListener("click", e => {
+        const t = e.target.closest(".xp-tile"); if (!t) return;
+        const x = xs[+t.dataset.x]; lv.src = src(x.video); lb.hidden = false; lv.play().catch(() => {});
+      });
+    }
     $("grid").addEventListener("click", e => {
       const b = e.target.closest("button[data-i]"); if (!b) return;
       go("p/" + PROJECTS[+b.dataset.i].slug, b);
