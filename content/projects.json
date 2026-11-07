@@ -1,6 +1,25 @@
 {
   "projects": [
     {
+      "title": "The Hunter - Humancentric",
+      "year": "2026",
+      "category": "AI Film",
+      "client": "Humancentric",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "cover": "/uploads/the-hunter/the-hunter-poster.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/the-hunter/the-hunter-poster.webp",
+          "video": "/uploads/the-hunter/the-hunter.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Sibel Can",
       "cover": "/uploads/sibel-can/sibel-can-01.webp",
       "tear_focus": "center",
