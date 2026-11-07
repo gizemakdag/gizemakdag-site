@@ -1,6 +1,55 @@
 {
   "projects": [
     {
+      "title": "Perplexity Radio",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "cover": "/uploads/perplexity-radio/radio-1-poster.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/perplexity-radio/radio-1-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-2-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-2.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-3-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-3.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-4-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-4.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-5-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-5.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-6-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-6.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-7-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-7.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Perplexity Computer",
       "year": "2026",
       "category": "AI Visuals",
