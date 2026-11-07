@@ -2,12 +2,12 @@
   "projects": [
     {
       "title": "The Hunter - Humancentric",
+      "cover": "/uploads/magnific__bu-posteri-dikey-yap__44091.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Film",
       "client": "Humancentric",
       "description": "Art Director: Ege Berkin Akdağ",
-      "cover": "/uploads/the-hunter/the-hunter-poster.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/the-hunter/the-hunter-poster.webp",
