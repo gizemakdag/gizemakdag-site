@@ -1,6 +1,49 @@
 {
   "projects": [
     {
+      "title": "Perplexity Computer",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "cover": "/uploads/perplexity-computer/computer-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/perplexity-computer/computer-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-computer/computer-video-1-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-computer/computer-video-2-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-2.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-computer/computer-video-3-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-3.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-computer/computer-video-4-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-4.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-computer/computer-video-5-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-5.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Perplexity",
       "year": "2025-2026",
       "category": "AI Visuals",
