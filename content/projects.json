@@ -1,6 +1,45 @@
 {
   "projects": [
     {
+      "title": "Rubio",
+      "year": "2026",
+      "category": "Concert Video",
+      "client": "Rubio",
+      "description": "",
+      "cover": "/uploads/rubio/rubio-01-poster.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/rubio/rubio-01-poster.webp",
+          "video": "/uploads/rubio/rubio-01.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-02-poster.webp",
+          "video": "/uploads/rubio/rubio-02.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-03-poster.webp",
+          "video": "/uploads/rubio/rubio-03.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-04-poster.webp",
+          "video": "/uploads/rubio/rubio-04.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-05-poster.webp",
+          "video": "/uploads/rubio/rubio-05.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "The Hunter - Humancentric",
       "cover": "/uploads/magnific__bu-posteri-dikey-yap__44091.webp",
       "tear_focus": "center",
