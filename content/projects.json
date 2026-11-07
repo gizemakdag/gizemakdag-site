@@ -2,12 +2,12 @@
   "projects": [
     {
       "title": "ARP FRIQUE & THE PERPETUAL SINGERS, LIVE TOGETHER LIVE",
+      "cover": "/uploads/arp/arp-poster.webp",
+      "tear_focus": "center",
       "year": "2025",
       "category": "AI Video",
       "client": "ARP FRIQUE & THE PERPETUAL SINGERS",
       "description": "",
-      "cover": "/uploads/arp/arp-poster.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/arp/arp-poster.webp",
@@ -21,12 +21,12 @@
     },
     {
       "title": "Perplexity Radio",
+      "cover": "/uploads/perplexity-radio/radio-1-poster.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Perplexity",
       "description": "",
-      "cover": "/uploads/perplexity-radio/radio-1-poster.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/perplexity-radio/radio-1-poster.webp",
@@ -70,15 +70,16 @@
     },
     {
       "title": "Perplexity Computer",
+      "cover": "/uploads/perplexity-computer/computer-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Perplexity",
       "description": "",
-      "cover": "/uploads/perplexity-computer/computer-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/perplexity-computer/computer-02.webp",
+          "video": "",
           "caption": ""
         },
         {
@@ -113,39 +114,46 @@
     },
     {
       "title": "Perplexity",
+      "cover": "/uploads/perplexity/perplexity-01.webp",
+      "tear_focus": "center",
       "year": "2025-2026",
       "category": "AI Visuals",
       "client": "Perplexity",
       "description": "",
-      "cover": "/uploads/perplexity/perplexity-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/perplexity/perplexity-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity/perplexity-08.webp",
+          "video": "",
           "caption": ""
         },
         {
@@ -160,47 +168,56 @@
     },
     {
       "title": "Perplexity Supply",
+      "cover": "/uploads/perplexity-supply/supply-01.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "AI Visuals",
       "client": "Perplexity",
       "description": "",
-      "cover": "/uploads/perplexity-supply/supply-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/perplexity-supply/supply-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-08.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-09.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-10.webp",
+          "video": "",
           "caption": ""
         },
         {
@@ -215,18 +232,22 @@
         },
         {
           "image": "/uploads/perplexity-supply/supply-11.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-12.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-13.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/perplexity-supply/supply-14.webp",
+          "video": "",
           "caption": ""
         },
         {
@@ -241,31 +262,36 @@
     },
     {
       "title": "Razer",
+      "cover": "/uploads/razer/razer-01.webp",
+      "tear_focus": "center",
       "year": "2025",
       "category": "AI Imagery",
       "client": "Razer",
       "description": "",
-      "cover": "/uploads/razer/razer-01.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/razer/razer-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/razer/razer-03.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/razer/razer-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/razer/razer-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/razer/razer-06.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -275,51 +301,61 @@
     },
     {
       "title": "Get Quotient",
+      "cover": "/uploads/get-quotient/get-quotient-03.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "World Building and AI Imagery",
       "client": "Get Quotient",
       "description": "",
-      "cover": "/uploads/get-quotient/get-quotient-03.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/get-quotient/get-quotient-01.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-02.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-04.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-05.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-06.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-07.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-08.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-09.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-10.webp",
+          "video": "",
           "caption": ""
         },
         {
           "image": "/uploads/get-quotient/get-quotient-11.webp",
+          "video": "",
           "caption": ""
         }
       ],
@@ -329,12 +365,12 @@
     },
     {
       "title": "Rubio",
+      "cover": "/uploads/rubio/rubio-01-poster.webp",
+      "tear_focus": "center",
       "year": "2026",
       "category": "Concert Video",
       "client": "Rubio",
       "description": "",
-      "cover": "/uploads/rubio/rubio-01-poster.webp",
-      "tear_focus": "center",
       "images": [
         {
           "image": "/uploads/rubio/rubio-01-poster.webp",
@@ -1020,7 +1056,7 @@
       "images": [],
       "link_label": "",
       "link_url": "",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Red Hills",
@@ -1033,7 +1069,7 @@
       "images": [],
       "link_label": "",
       "link_url": "",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Arcadia Eye",
@@ -1046,7 +1082,7 @@
       "images": [],
       "link_label": "",
       "link_url": "",
-      "hidden": false
+      "hidden": true
     },
     {
       "title": "Fuji Bob",
@@ -1059,7 +1095,7 @@
       "images": [],
       "link_label": "",
       "link_url": "",
-      "hidden": false
+      "hidden": true
     }
   ]
 }
