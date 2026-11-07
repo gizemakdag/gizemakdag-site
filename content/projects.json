@@ -1,6 +1,53 @@
 {
   "projects": [
     {
+      "title": "Perplexity",
+      "year": "2025-2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "cover": "/uploads/perplexity/perplexity-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/perplexity/perplexity-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity/perplexity-video-poster.webp",
+          "video": "/uploads/perplexity/perplexity-video.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Perplexity Supply",
       "year": "2026",
       "category": "AI Visuals",
