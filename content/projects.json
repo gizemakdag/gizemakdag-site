@@ -1,6 +1,40 @@
 {
   "projects": [
     {
+      "title": "Razer",
+      "year": "2025",
+      "category": "AI Imagery",
+      "client": "Razer",
+      "description": "",
+      "cover": "/uploads/razer/razer-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/razer/razer-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-06.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Get Quotient",
       "year": "2026",
       "category": "World Building and AI Imagery",
