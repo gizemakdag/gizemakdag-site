@@ -1,6 +1,66 @@
 {
   "projects": [
     {
+      "title": "Perplexity Supply",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "cover": "/uploads/perplexity-supply/supply-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/perplexity-supply/supply-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-09.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-10.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-video-1-poster.webp",
+          "video": "/uploads/perplexity-supply/supply-video-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-video-4-poster.webp",
+          "video": "/uploads/perplexity-supply/supply-video-4.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "Razer",
       "year": "2025",
       "category": "AI Imagery",
