@@ -94,6 +94,11 @@
       "name": "Kering",
       "logo": "/uploads/clients/kering.webp",
       "height": 46
+    },
+    {
+      "name": "Contra",
+      "logo": "/uploads/clients/contra.webp",
+      "height": 29
     }
   ]
 }
