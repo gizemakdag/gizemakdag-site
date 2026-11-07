@@ -42,42 +42,58 @@
   "clients": [
     {
       "name": "Perplexity",
-      "logo": "/uploads/clients/perplexity.webp"
+      "logo": "/uploads/clients/perplexity.webp",
+      "height": 31
     },
     {
       "name": "Meta",
-      "logo": "/uploads/clients/meta.webp"
+      "logo": "/uploads/clients/meta.webp",
+      "height": 30
     },
     {
       "name": "Google",
       "logo": "/uploads/clients/google.webp",
-      "height": 34
+      "height": 35
     },
     {
       "name": "Cursor",
-      "logo": "/uploads/clients/cursor.svg"
+      "logo": "/uploads/clients/cursor.svg",
+      "height": 32
     },
     {
       "name": "Adobe",
-      "logo": "/uploads/clients/adobe.webp"
+      "logo": "/uploads/clients/adobe.webp",
+      "height": 34
+    },
+    {
+      "name": "fal",
+      "logo": "/uploads/clients/fal.webp",
+      "height": 36
     },
     {
       "name": "Klarna",
-      "logo": "/uploads/clients/klarna.webp"
+      "logo": "/uploads/clients/klarna.webp",
+      "height": 33
     },
     {
-      "name": "Razer",
-      "logo": "/uploads/clients/razer.webp"
+      "name": "Plaid",
+      "logo": "/uploads/clients/plaid.svg",
+      "height": 36
     },
     {
       "name": "Alo Yoga",
       "logo": "/uploads/clients/alo.webp",
-      "height": 44
+      "height": 46
+    },
+    {
+      "name": "Razer",
+      "logo": "/uploads/clients/razer.webp",
+      "height": 28
     },
     {
       "name": "Kering",
       "logo": "/uploads/clients/kering.webp",
-      "height": 58
+      "height": 46
     }
   ]
 }
