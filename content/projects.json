@@ -1,6 +1,52 @@
 {
   "projects": [
     {
+      "title": "Sibel Can",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Sibel Can",
+      "description": "",
+      "cover": "/uploads/sibel-can/sibel-can-01.webp",
+      "tear_focus": "center",
+      "images": [
+        {
+          "image": "/uploads/sibel-can/sibel-can-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-09.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
       "title": "ZapConnect 2026",
       "cover": "/uploads/zapconnect/zapconnect-11.webp",
       "tear_focus": "center",
