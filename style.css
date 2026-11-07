@@ -190,6 +190,12 @@ ul,ol{list-style:none}
 .info-list a{display:flex;justify-content:space-between;padding:12px 0;text-transform:uppercase;transition:padding .3s}
 .info-list a::after{content:"↗"}
 .info-list a:hover{padding-left:6px}
+.clients{margin-top:70px;padding-bottom:40px}
+.clients h2{font-family:var(--mono);font-weight:400;font-size:11px;text-transform:uppercase;opacity:.6;margin-bottom:14px}
+.clients-grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.clients-grid li{height:92px;display:flex;align-items:center;justify-content:center;padding:0 26px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.clients-grid a{display:flex;align-items:center;justify-content:center;width:100%;height:100%}
+.clients-grid img{max-width:100%;max-height:30px;width:auto;height:auto;object-fit:contain;opacity:.9}
 
 .m-socials{display:none;flex-wrap:wrap;gap:6px 16px;margin-top:12px;text-transform:uppercase}
 .m-socials a{border-bottom:1px solid var(--line);padding-bottom:2px}
@@ -226,6 +232,9 @@ ul,ol{list-style:none}
   .grid.store-grid{grid-template-columns:1fr}
   .info{grid-template-columns:1fr;gap:36px;padding-top:26px}
   .info-about{font-size:22px}
+  .clients{margin-top:48px}
+  .clients-grid{grid-template-columns:repeat(2,1fr)}
+  .clients-grid li{height:78px;padding:0 20px}
 }
 @media (prefers-reduced-motion:reduce){
   .grain{animation:none}

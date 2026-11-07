@@ -77,6 +77,15 @@
     const links = (SITE.links || []).filter(l => l.url);
     $("info-links").innerHTML = links.map(s => `<li>${linkHTML(s)}</li>`).join("");
     if (!links.length) $("info-links-wrap").remove();
+    const clients = (SITE.clients || []).filter(c => c.logo);
+    if (clients.length) {
+      $("clients-title").textContent = SITE.clients_title || "Clients";
+      $("clients").innerHTML = clients.map(c => {
+        const st = Number(c.height) ? ` style="max-height:${Number(c.height)}px"` : "";
+        const img = `<img src="${esc(c.logo)}" alt="${esc(c.name || "")}"${st} loading="lazy">`;
+        return `<li>${c.url ? `<a href="${esc(c.url)}" target="_blank" rel="noopener">${img}</a>` : img}</li>`;
+      }).join("");
+    } else $("clients-wrap").remove();
 
     // Store
     if (STORE.length) {

@@ -128,6 +128,18 @@ collections:
               - { name: label, label: Name, widget: string, hint: "e.g. Instagram" }
               - { name: url, label: URL, widget: string }
               - { name: homepage, label: Show on homepage, widget: boolean, default: true, required: false, hint: "Off = only listed on the Info page" }
+          - { name: clients_title, label: Clients heading, widget: string, required: false, default: "Clients" }
+          - name: clients
+            label: Clients (logos)
+            label_singular: Client
+            widget: list
+            required: false
+            summary: "{{fields.name}}"
+            fields:
+              - { name: name, label: Name, widget: string }
+              - { name: logo, label: "Logo (cream/white on transparent PNG, WebP or SVG)", widget: image }
+              - { name: height, label: "Logo height in px (optional, default 30)", widget: number, required: false }
+              - { name: url, label: Link (optional), widget: string, required: false }
           - name: links
             label: Other links
             label_singular: Link

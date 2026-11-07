@@ -37,5 +37,47 @@
       "label": "Linktree",
       "url": "https://linktr.ee/gizemakdag"
     }
+  ],
+  "clients_title": "Clients",
+  "clients": [
+    {
+      "name": "Perplexity",
+      "logo": "/uploads/clients/perplexity.webp"
+    },
+    {
+      "name": "Meta",
+      "logo": "/uploads/clients/meta.webp"
+    },
+    {
+      "name": "Google",
+      "logo": "/uploads/clients/google.webp",
+      "height": 34
+    },
+    {
+      "name": "Cursor",
+      "logo": "/uploads/clients/cursor.svg"
+    },
+    {
+      "name": "Adobe",
+      "logo": "/uploads/clients/adobe.webp"
+    },
+    {
+      "name": "Klarna",
+      "logo": "/uploads/clients/klarna.webp"
+    },
+    {
+      "name": "Razer",
+      "logo": "/uploads/clients/razer.webp"
+    },
+    {
+      "name": "Alo Yoga",
+      "logo": "/uploads/clients/alo.webp",
+      "height": 44
+    },
+    {
+      "name": "Kering",
+      "logo": "/uploads/clients/kering.webp",
+      "height": 58
+    }
   ]
 }
