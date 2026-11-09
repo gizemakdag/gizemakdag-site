@@ -1,6 +1,77 @@
 {
   "projects": [
     {
+      "title": "ZapConnect 2025",
+      "cover": "/uploads/zapconnect-2025/zapconnect-2025-10.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Visuals",
+      "client": "Zapier",
+      "description": "",
+      "link_label": "",
+      "link_url": "",
+      "hidden": false,
+      "images": [
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-video-poster.webp",
+          "caption": "",
+          "video": "/uploads/zapconnect-2025/zapconnect-2025-video.mp4"
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-01.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-02.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-03.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-04.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-05.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-06.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-07.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-08.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-09.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-10.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-11.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-12.webp",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-13.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
       "title": "Daddy Yankee - La Postal",
       "cover": "/uploads/cover_s_1.webp",
       "tear_focus": "center",
