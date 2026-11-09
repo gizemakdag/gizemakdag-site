@@ -1,120 +1,219 @@
 {
   "projects": [
     {
-      "title": "ARP FRIQUE & THE PERPETUAL SINGERS, LIVE TOGETHER LIVE",
-      "cover": "/uploads/arp-x-gizem-collab.webp",
-      "tear_focus": "center",
-      "year": "2025",
-      "category": "AI Video",
-      "client": "ARP FRIQUE & THE PERPETUAL SINGERS",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/arp/arp-poster.webp",
-          "video": "/uploads/arp/arp-video.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Perplexity Radio",
-      "cover": "/uploads/image-3381.webp",
+      "title": "Daddy Yankee - La Postal",
+      "cover": "/uploads/cover_s_1.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI Videos",
-      "client": "Perplexity",
+      "category": "Album Cover Art",
+      "client": "",
       "description": "",
       "images": [
         {
-          "image": "/uploads/image-3381.webp",
-          "video": "/uploads/pw_zetgon-lhuci7.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-1-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-1.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-2-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-2.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-3-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-3.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-4-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-4.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-5-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-5.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-6-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-6.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-radio/radio-7-poster.webp",
-          "video": "/uploads/perplexity-radio/radio-7.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Perplexity Computer",
-      "cover": "/uploads/perplexity-computer/computer-video-2-poster.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI Visuals",
-      "client": "Perplexity",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/perplexity-computer/computer-02.webp",
+          "image": "/uploads/daddy-yankee/la-postal-01.webp",
           "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/perplexity-computer/computer-video-1-poster.webp",
-          "video": "/uploads/perplexity-computer/computer-video-1.mp4",
+          "image": "/uploads/daddy-yankee/la-postal-02.webp",
+          "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/perplexity-computer/computer-video-2-poster.webp",
-          "video": "/uploads/perplexity-computer/computer-video-2.mp4",
+          "image": "/uploads/daddy-yankee/la-postal-03.webp",
+          "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/perplexity-computer/computer-video-3-poster.webp",
-          "video": "/uploads/perplexity-computer/computer-video-3.mp4",
+          "image": "/uploads/daddy-yankee/la-postal-04.webp",
+          "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/perplexity-computer/computer-video-4-poster.webp",
-          "video": "/uploads/perplexity-computer/computer-video-4.mp4",
+          "image": "/uploads/daddy-yankee/la-postal-05.webp",
+          "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/perplexity-computer/computer-video-5-poster.webp",
-          "video": "/uploads/perplexity-computer/computer-video-5.mp4",
+          "image": "/uploads/daddy-yankee/la-postal-06.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-07.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-08.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-09.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-10.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-11.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-12.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-13.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-14.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-15.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-16.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/daddy-yankee/la-postal-17.webp",
+          "video": "",
           "caption": ""
         }
       ],
       "link_label": "",
       "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Tour de France - Helmet Design",
+      "cover": "/uploads/tour-de-france/helmet-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "",
+      "client": "UAE Team Emirates",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/tour-de-france/helmet-02.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-03.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-04.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-05.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-06.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-07.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-08.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/tour-de-france/helmet-09.webp",
+          "video": "",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Alo Yoga",
+      "cover": "/uploads/alo/court.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI visuals",
+      "client": "Alo Yoga",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/alo/film-2.webp",
+          "video": "/uploads/alo/film-2.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-3.webp",
+          "video": "/uploads/alo/film-3.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-4.webp",
+          "video": "/uploads/alo/film-4.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/film-1.webp",
+          "video": "/uploads/alo/film-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/balls.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/alo/waves.webp",
+          "video": "",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Google Flow - \"DREAM\"",
+      "cover": "/uploads/dream-image-1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Movie",
+      "client": "Google",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/dream/dream.webp",
+          "video": "/uploads/dream/dream.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "https://youtu.be/kia4T3Lylew?si=ugbKVceWN5_tszad",
       "hidden": false
     },
     {
@@ -172,310 +271,14 @@
       "hidden": false
     },
     {
-      "title": "Perplexity Supply",
-      "cover": "/uploads/perplexity-supply/supply-01.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI Visuals",
-      "client": "Perplexity",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/perplexity-supply/supply-02.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-03.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-04.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-05.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-06.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-07.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-08.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-09.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-10.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-video-1-poster.webp",
-          "video": "/uploads/perplexity-supply/supply-video-1.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-video-4-poster.webp",
-          "video": "/uploads/perplexity-supply/supply-video-4.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-11.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-12.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-13.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-14.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/perplexity-supply/supply-tote-poster.webp",
-          "video": "/uploads/perplexity-supply/supply-tote.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Razer",
-      "cover": "/uploads/razer/razer-01.webp",
-      "tear_focus": "center",
-      "year": "2025",
-      "category": "AI Imagery",
-      "client": "Razer",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/razer/razer-02.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/razer/razer-03.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/razer/razer-04.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/razer/razer-05.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/razer/razer-06.webp",
-          "video": "",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Get Quotient",
-      "cover": "/uploads/get-quotient/get-quotient-11.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "World Building and AI Imagery",
-      "client": "Get Quotient",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/get-quotient/get-quotient-01.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-02.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-04.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-05.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-06.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-07.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-08.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-09.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-10.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/get-quotient/get-quotient-11.webp",
-          "video": "",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Rubio",
-      "cover": "/uploads/rubio/rubio-01-poster.webp",
+      "title": "Macklemore - Good Old Days",
+      "cover": "/uploads/macklemore/macklemore-01.webp",
       "tear_focus": "center",
       "year": "2026",
       "category": "Concert Video",
-      "client": "Rubio",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/rubio/rubio-01-poster.webp",
-          "video": "/uploads/rubio/rubio-01.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/rubio/rubio-02-poster.webp",
-          "video": "/uploads/rubio/rubio-02.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/rubio/rubio-03-poster.webp",
-          "video": "/uploads/rubio/rubio-03.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/rubio/rubio-04-poster.webp",
-          "video": "/uploads/rubio/rubio-04.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/rubio/rubio-05-poster.webp",
-          "video": "/uploads/rubio/rubio-05.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "The Hunter - Humancentric",
-      "cover": "/uploads/magnific__bu-posteri-dikey-yap__44091.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI Film",
-      "client": "Humancentric",
-      "description": "Art Director: Ege Berkin Akdağ",
-      "images": [
-        {
-          "image": "/uploads/the-hunter/the-hunter-poster.webp",
-          "video": "/uploads/the-hunter/the-hunter.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "",
-      "hidden": false
-    },
-    {
-      "title": "Sibel Can",
-      "cover": "/uploads/sibel-can/sibel-can-01.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI Visuals",
-      "client": "Sibel Can",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/sibel-can/sibel-can-02.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-03.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-04.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-05.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-06.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-07.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-08.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/sibel-can/sibel-can-09.webp",
-          "video": "",
-          "caption": ""
-        }
-      ],
+      "client": "Macklemore",
+      "description": "Macklemore - Good Old Days concert video",
+      "images": [],
       "link_label": "",
       "link_url": "",
       "hidden": false
@@ -619,14 +422,39 @@
       "hidden": false
     },
     {
-      "title": "Macklemore - Good Old Days",
-      "cover": "/uploads/macklemore/macklemore-01.webp",
+      "title": "The Hunter - Humancentric",
+      "cover": "/uploads/magnific__bu-posteri-dikey-yap__44091.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "Concert Video",
-      "client": "Macklemore",
-      "description": "Macklemore - Good Old Days concert video",
-      "images": [],
+      "category": "AI Film",
+      "client": "Humancentric",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "images": [
+        {
+          "image": "/uploads/the-hunter/the-hunter-poster.webp",
+          "video": "/uploads/the-hunter/the-hunter.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Opening Film for The German Creative Economy Summit 2026",
+      "cover": "/uploads/gces/cover.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "",
+      "client": "GCES",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "images": [
+        {
+          "image": "/uploads/gces/opening-film.webp",
+          "video": "/uploads/gces/opening-film.mp4",
+          "caption": ""
+        }
+      ],
       "link_label": "",
       "link_url": "",
       "hidden": false
@@ -690,21 +518,80 @@
       "hidden": false
     },
     {
-      "title": "PAMA KUWAIT",
-      "cover": "/uploads/pama-kuwait/pama-01.webp",
+      "title": "Hebbia",
+      "cover": "/uploads/hebbia_1v.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI Visuals",
-      "client": "PAMA KUWAIT",
+      "category": "World building and AI Images",
+      "client": "Hebbia",
       "description": "",
       "images": [
         {
-          "image": "/uploads/pama-kuwait/pama-02.webp",
+          "image": "/uploads/hebbia_3v.webp",
           "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/pama-kuwait/pama-03.webp",
+          "image": "/uploads/hebbia_5h_1.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/hebbia_1v-1.webp",
+          "video": "",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "https://www.hebbia.com/",
+      "hidden": false
+    },
+    {
+      "title": "Sibel Can",
+      "cover": "/uploads/sibel-can/sibel-can-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Sibel Can",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/sibel-can/sibel-can-02.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-03.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-04.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-05.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-06.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-07.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-08.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/sibel-can/sibel-can-09.webp",
           "video": "",
           "caption": ""
         }
@@ -714,17 +601,51 @@
       "hidden": false
     },
     {
-      "title": "Opening Film for The German Creative Economy Summit 2026",
-      "cover": "/uploads/gces/cover.webp",
+      "title": "Donde Esteban",
+      "cover": "/uploads/donde-esteban-x-gizem-akdag-1.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "",
-      "client": "GCES",
-      "description": "Art Director: Ege Berkin Akdağ",
+      "category": "AI Photography",
+      "client": "Donde Esteban",
+      "description": "",
       "images": [
         {
-          "image": "/uploads/gces/opening-film.webp",
-          "video": "/uploads/gces/opening-film.mp4",
+          "image": "/uploads/donde-esteban-x-gizem-akdag-3.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/donde-esteban-x-gizem-akdag-2.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/esteban/film-1.webp",
+          "video": "/uploads/esteban/film-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/esteban/film-2.webp",
+          "video": "/uploads/esteban/film-2.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "ARP FRIQUE & THE PERPETUAL SINGERS, LIVE TOGETHER LIVE",
+      "cover": "/uploads/arp-x-gizem-collab.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Video",
+      "client": "ARP FRIQUE & THE PERPETUAL SINGERS",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/arp/arp-poster.webp",
+          "video": "/uploads/arp/arp-video.mp4",
           "caption": ""
         }
       ],
@@ -772,51 +693,21 @@
       "hidden": false
     },
     {
-      "title": "Tour de France - Helmet Design",
-      "cover": "/uploads/tour-de-france/helmet-01.webp",
+      "title": "PAMA KUWAIT",
+      "cover": "/uploads/pama-kuwait/pama-01.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "",
-      "client": "UAE Team Emirates",
+      "category": "AI Visuals",
+      "client": "PAMA KUWAIT",
       "description": "",
       "images": [
         {
-          "image": "/uploads/tour-de-france/helmet-02.webp",
+          "image": "/uploads/pama-kuwait/pama-02.webp",
           "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/tour-de-france/helmet-03.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-04.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-05.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-06.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-07.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-08.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/tour-de-france/helmet-09.webp",
+          "image": "/uploads/pama-kuwait/pama-03.webp",
           "video": "",
           "caption": ""
         }
@@ -826,61 +717,52 @@
       "hidden": false
     },
     {
-      "title": "Hebbia",
-      "cover": "/uploads/hebbia_1v.webp",
+      "title": "Perplexity Radio",
+      "cover": "/uploads/image-3381.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "World building and AI Images",
-      "client": "Hebbia",
+      "category": "AI Videos",
+      "client": "Perplexity",
       "description": "",
       "images": [
         {
-          "image": "/uploads/hebbia_3v.webp",
-          "video": "",
+          "image": "/uploads/image-3381.webp",
+          "video": "/uploads/pw_zetgon-lhuci7.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/hebbia_5h_1.webp",
-          "video": "",
+          "image": "/uploads/perplexity-radio/radio-1-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-1.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/hebbia_1v-1.webp",
-          "video": "",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "https://www.hebbia.com/",
-      "hidden": false
-    },
-    {
-      "title": "Donde Esteban",
-      "cover": "/uploads/donde-esteban-x-gizem-akdag-1.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI Photography",
-      "client": "Donde Esteban",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/donde-esteban-x-gizem-akdag-3.webp",
-          "video": "",
+          "image": "/uploads/perplexity-radio/radio-2-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-2.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/donde-esteban-x-gizem-akdag-2.webp",
-          "video": "",
+          "image": "/uploads/perplexity-radio/radio-3-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-3.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/esteban/film-1.webp",
-          "video": "/uploads/esteban/film-1.mp4",
+          "image": "/uploads/perplexity-radio/radio-4-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-4.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/esteban/film-2.webp",
-          "video": "/uploads/esteban/film-2.mp4",
+          "image": "/uploads/perplexity-radio/radio-5-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-5.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-6-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-6.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-radio/radio-7-poster.webp",
+          "video": "/uploads/perplexity-radio/radio-7.mp4",
           "caption": ""
         }
       ],
@@ -889,116 +771,42 @@
       "hidden": false
     },
     {
-      "title": "Google Flow - \"DREAM\"",
-      "cover": "/uploads/dream-image-1.webp",
+      "title": "Perplexity Computer",
+      "cover": "/uploads/perplexity-computer/computer-video-2-poster.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI Movie",
-      "client": "Google",
+      "category": "AI Visuals",
+      "client": "Perplexity",
       "description": "",
       "images": [
         {
-          "image": "/uploads/dream/dream.webp",
-          "video": "/uploads/dream/dream.mp4",
-          "caption": ""
-        }
-      ],
-      "link_label": "",
-      "link_url": "https://youtu.be/kia4T3Lylew?si=ugbKVceWN5_tszad",
-      "hidden": false
-    },
-    {
-      "title": "Daddy Yankee - La Postal",
-      "cover": "/uploads/cover_s_1.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "Album Cover Art",
-      "client": "",
-      "description": "",
-      "images": [
-        {
-          "image": "/uploads/daddy-yankee/la-postal-01.webp",
+          "image": "/uploads/perplexity-computer/computer-02.webp",
           "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/daddy-yankee/la-postal-02.webp",
-          "video": "",
+          "image": "/uploads/perplexity-computer/computer-video-1-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-1.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/daddy-yankee/la-postal-03.webp",
-          "video": "",
+          "image": "/uploads/perplexity-computer/computer-video-2-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-2.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/daddy-yankee/la-postal-04.webp",
-          "video": "",
+          "image": "/uploads/perplexity-computer/computer-video-3-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-3.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/daddy-yankee/la-postal-05.webp",
-          "video": "",
+          "image": "/uploads/perplexity-computer/computer-video-4-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-4.mp4",
           "caption": ""
         },
         {
-          "image": "/uploads/daddy-yankee/la-postal-06.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-07.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-08.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-09.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-10.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-11.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-12.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-13.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-14.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-15.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-16.webp",
-          "video": "",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/daddy-yankee/la-postal-17.webp",
-          "video": "",
+          "image": "/uploads/perplexity-computer/computer-video-5-poster.webp",
+          "video": "/uploads/perplexity-computer/computer-video-5.mp4",
           "caption": ""
         }
       ],
@@ -1007,41 +815,169 @@
       "hidden": false
     },
     {
-      "title": "Alo Yoga",
-      "cover": "/uploads/alo/court.webp",
+      "title": "Perplexity Supply",
+      "cover": "/uploads/perplexity-supply/supply-01.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI visuals",
-      "client": "Alo Yoga",
+      "category": "AI Visuals",
+      "client": "Perplexity",
       "description": "",
       "images": [
         {
-          "image": "/uploads/alo/film-2.webp",
-          "video": "/uploads/alo/film-2.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/alo/film-3.webp",
-          "video": "/uploads/alo/film-3.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/alo/film-4.webp",
-          "video": "/uploads/alo/film-4.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/alo/film-1.webp",
-          "video": "/uploads/alo/film-1.mp4",
-          "caption": ""
-        },
-        {
-          "image": "/uploads/alo/balls.webp",
+          "image": "/uploads/perplexity-supply/supply-02.webp",
           "video": "",
           "caption": ""
         },
         {
-          "image": "/uploads/alo/waves.webp",
+          "image": "/uploads/perplexity-supply/supply-03.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-04.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-05.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-06.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-07.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-08.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-09.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-10.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-video-1-poster.webp",
+          "video": "/uploads/perplexity-supply/supply-video-1.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-video-4-poster.webp",
+          "video": "/uploads/perplexity-supply/supply-video-4.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-11.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-12.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-13.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-14.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/perplexity-supply/supply-tote-poster.webp",
+          "video": "/uploads/perplexity-supply/supply-tote.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Rubio",
+      "cover": "/uploads/rubio/rubio-01-poster.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "Concert Video",
+      "client": "Rubio",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/rubio/rubio-01-poster.webp",
+          "video": "/uploads/rubio/rubio-01.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-02-poster.webp",
+          "video": "/uploads/rubio/rubio-02.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-03-poster.webp",
+          "video": "/uploads/rubio/rubio-03.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-04-poster.webp",
+          "video": "/uploads/rubio/rubio-04.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/rubio/rubio-05-poster.webp",
+          "video": "/uploads/rubio/rubio-05.mp4",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Razer",
+      "cover": "/uploads/razer/razer-01.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Imagery",
+      "client": "Razer",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/razer/razer-02.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-03.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-04.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-05.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/razer/razer-06.webp",
           "video": "",
           "caption": ""
         }
@@ -1051,56 +987,68 @@
       "hidden": false
     },
     {
-      "title": "Feather Bloom",
-      "cover": "/uploads/feather.webp",
-      "tear_focus": "top",
-      "year": "2026",
-      "category": "AI photograph",
-      "client": "",
-      "description": "A blue plume flower standing alone on a pale shoreline.",
-      "images": [],
-      "link_label": "",
-      "link_url": "",
-      "hidden": true
-    },
-    {
-      "title": "Red Hills",
-      "cover": "/uploads/hills.webp",
+      "title": "Get Quotient",
+      "cover": "/uploads/get-quotient/get-quotient-11.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI photograph",
-      "client": "",
-      "description": "Wind-combed scarlet hills beneath a resting cloud.",
-      "images": [],
+      "category": "World Building and AI Imagery",
+      "client": "Get Quotient",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/get-quotient/get-quotient-01.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-02.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-04.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-05.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-06.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-07.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-08.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-09.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-10.webp",
+          "video": "",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/get-quotient/get-quotient-11.webp",
+          "video": "",
+          "caption": ""
+        }
+      ],
       "link_label": "",
       "link_url": "",
-      "hidden": true
-    },
-    {
-      "title": "Arcadia Eye",
-      "cover": "/uploads/arcadia.webp",
-      "tear_focus": "center",
-      "year": "2026",
-      "category": "AI illustration",
-      "client": "",
-      "description": "Temple gardens, concentric rings and a staircase that leads into stars.",
-      "images": [],
-      "link_label": "",
-      "link_url": "",
-      "hidden": true
-    },
-    {
-      "title": "Fuji Bob",
-      "cover": "/uploads/fuji.webp",
-      "tear_focus": "top",
-      "year": "2026",
-      "category": "AI portrait",
-      "client": "",
-      "description": "A portrait that wears the mountain as a haircut.",
-      "images": [],
-      "link_label": "",
-      "link_url": "",
-      "hidden": true
+      "hidden": false
     }
   ]
 }
