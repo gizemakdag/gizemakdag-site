@@ -24,7 +24,7 @@
       "cover": "/uploads/perplexity-radio/radio-1-poster.webp",
       "tear_focus": "center",
       "year": "2026",
-      "category": "AI Visuals",
+      "category": "AI Videos",
       "client": "Perplexity",
       "description": "",
       "images": [
@@ -61,6 +61,11 @@
         {
           "image": "/uploads/perplexity-radio/radio-7-poster.webp",
           "video": "/uploads/perplexity-radio/radio-7.mp4",
+          "caption": ""
+        },
+        {
+          "image": "/uploads/image-3381.webp",
+          "video": "/uploads/pw_zetgon-lhuci7.mp4",
           "caption": ""
         }
       ],
