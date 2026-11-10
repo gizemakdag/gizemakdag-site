@@ -5,8 +5,8 @@
 
   // Tear positions measured from the painting (px in 1456×816)
   const SLOTS = [
-    { x:573, y:288, w:48, h:117, shape:"images/tear1.png", fall:520, hold:[3800,6200] },
-    { x:813, y:419, w:44, h:120, shape:"images/tear2.png", fall:420, hold:[4600,7200] },
+    { x:573, y:288, w:48, h:117, shape:"images/tear1.png", fall:520, hold:[2000,3500] },
+    { x:813, y:419, w:44, h:120, shape:"images/tear2.png", fall:420, hold:[2300,3500] },
   ];
 
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
