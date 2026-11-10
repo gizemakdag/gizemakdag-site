@@ -4,52 +4,52 @@
   "store_url": "https://contra.com/gizemakdag/products",
   "products": [
     {
+      "title": "Digital Poster - Ready to Print",
+      "price": "$115",
+      "image": "/uploads/store/digital-poster.webp",
+      "url": "https://contra.com/products/YOR2BZJ7-digital-poster-ready-to-print",
+      "hidden": false
+    },
+    {
       "title": "BUNDLE - Midjourney SREF Collection",
       "price": "$200",
       "image": "/uploads/store/bundle.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/sVSigHqo-bundle-midjourney-sref-collection",
       "hidden": false
     },
     {
       "title": "Midjourney SREF Collection - For Designers",
       "price": "$55",
       "image": "/uploads/store/for-designers.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/yEDsDMTa-midjourney-sref-collection-for-designers",
       "hidden": false
     },
     {
       "title": "Midjourney SREF Collection - Illustration",
       "price": "$55",
       "image": "/uploads/store/illustration.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/IMivyBDj-midjourney-sref-collection-illustration",
       "hidden": false
     },
     {
       "title": "Midjourney SREF Collection - Photorealism",
       "price": "$60",
       "image": "/uploads/store/photorealism.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/YgsI0ICP-midjourney-sref-collection-photorealism",
       "hidden": false
     },
     {
       "title": "Midjourney SREF Collection - Texture & Effect",
       "price": "$55",
       "image": "/uploads/store/texture-and-effect.webp",
-      "url": "https://contra.com/gizemakdag/products",
-      "hidden": false
-    },
-    {
-      "title": "Digital Poster - Ready to Print",
-      "price": "$115",
-      "image": "/uploads/store/digital-poster.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/eM7hdsDR-midjourney-sref-collection-texture-and-effect",
       "hidden": false
     },
     {
       "title": "Midjourney Quick Prompts - with a --p code",
       "price": "$20",
       "image": "/uploads/store/quick-prompts.webp",
-      "url": "https://contra.com/gizemakdag/products",
+      "url": "https://contra.com/products/SoYidyDe-midjourney-quick-prompts-with-a-p-code",
       "hidden": false
     }
   ]
