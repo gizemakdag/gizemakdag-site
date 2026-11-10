@@ -109,14 +109,13 @@ collections:
         format: json
         fields:
           - { name: name, label: Name, widget: string }
-          - { name: role, label: Role (browser tab title only), widget: string, required: false }
+          - { name: role, label: Role line, widget: string, required: false }
           - { name: hint, label: Homepage line, widget: string, required: false, hint: "Each sentence goes on its own line." }
           - { name: list_title, label: Project list heading, widget: string, required: false, default: "Falling now" }
           - { name: list_subtitle, label: Project list heading (dim part), widget: string, required: false, default: "up next" }
           - { name: nav_projects, label: Projects button text, widget: string, required: false, default: "Projects" }
           - { name: show_count, label: Show project count on that button, widget: boolean, required: false, default: false }
           - { name: nav_info, label: Info button text, widget: string, required: false, default: "Info" }
-          - { name: about, label: About, widget: text, required: false }
           - { name: email, label: Contact email, widget: string, required: false }
           - { name: location, label: Location, widget: string, required: false }
           - name: socials

@@ -68,8 +68,7 @@
 
     // Info page
     $("info-title").textContent = SITE.name || "";
-    $("info-role").remove();
-    $("info-about").textContent = SITE.about || "";
+    $("info-role").textContent = SITE.role || "";
     const ie = $("info-email");
     if (mail) { ie.href = mail; ie.textContent = SITE.email; } else ie.parentElement.querySelector("h2").remove(), ie.remove();
     $("info-loc").textContent = SITE.location || "";
