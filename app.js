@@ -206,7 +206,7 @@
     requestAnimationFrame(trackTag);
   }
 
-  function spawn(slot) {
+  function spawn(slot, firstDelay) {
     const other = SLOTS.filter(s => s !== slot).map(s => s.current);
     const pi = nextProject([...other, slot.current].filter(v => v != null));
     const el = makeTear(slot, pi);
@@ -221,7 +221,7 @@
     ], { duration: reduce ? 600 : 1500, easing:"cubic-bezier(.3,.7,.3,1)", fill:"both" });
     if (paused) el._anim.pause();
     const [a, b] = slot.hold;
-    el._timer = timer(a + Math.random() * (b - a) + 1500, () => fall(slot, el));
+    el._timer = timer(firstDelay != null ? firstDelay : a + Math.random() * (b - a) + 1500, () => fall(slot, el));
     if (!paused && hoverEl !== el) el._timer.run();
   }
 
@@ -372,8 +372,8 @@
   load().then(() => {
     renderChrome();
     if (PROJECTS.length) {
-      spawn(SLOTS[0]);
-      if (PROJECTS.length > 1) setTimeout(() => spawn(SLOTS[1]), reduce ? 0 : 900);
+      spawn(SLOTS[0], reduce ? 2500 : 2600);
+      if (PROJECTS.length > 1) setTimeout(() => spawn(SLOTS[1], reduce ? 3500 : 4200), reduce ? 0 : 900);
     }
     route_();
   }).catch(err => {
