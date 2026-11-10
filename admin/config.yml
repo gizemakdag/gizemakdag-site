@@ -109,7 +109,7 @@ collections:
         format: json
         fields:
           - { name: name, label: Name, widget: string }
-          - { name: role, label: Role line, widget: string, required: false }
+          - { name: role, label: Role (browser tab title only), widget: string, required: false }
           - { name: hint, label: Homepage line, widget: string, required: false, hint: "Each sentence goes on its own line." }
           - { name: list_title, label: Project list heading, widget: string, required: false, default: "Falling now" }
           - { name: list_subtitle, label: Project list heading (dim part), widget: string, required: false, default: "up next" }

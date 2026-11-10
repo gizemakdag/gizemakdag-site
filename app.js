@@ -68,7 +68,7 @@
 
     // Info page
     $("info-title").textContent = SITE.name || "";
-    $("info-role").textContent = SITE.role || "";
+    $("info-role").remove();
     $("info-about").textContent = SITE.about || "";
     const ie = $("info-email");
     if (mail) { ie.href = mail; ie.textContent = SITE.email; } else ie.parentElement.querySelector("h2").remove(), ie.remove();
