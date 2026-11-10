@@ -110,7 +110,7 @@
     const xs = (SITE.explorations || []).filter(x => x && x.video);
     if (xs.length) {
       $("xp-wrap").hidden = false;
-      $("xp-title").textContent = SITE.explorations_title || "AI explorations";
+      $("xp-title").textContent = SITE.explorations_title || "Videos";
       $("xp-count").textContent = "Collabs · " + pad(xs.length);
       $("xp").innerHTML = xs.map((x, i) => {
         const who = x.collab ? (x.collab_url ? `<a href="${esc(x.collab_url)}" target="_blank" rel="noopener">w/ ${esc(x.collab)}</a>` : `w/ ${esc(x.collab)}`) : "";

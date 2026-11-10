@@ -139,9 +139,9 @@ collections:
               - { name: logo, label: "Logo (cream/white on transparent PNG, WebP or SVG)", widget: image }
               - { name: height, label: "Logo height in px (optional, default 30)", widget: number, required: false }
               - { name: url, label: Link (optional), widget: string, required: false }
-          - { name: explorations_title, label: AI explorations heading, widget: string, required: false, default: "AI explorations" }
+          - { name: explorations_title, label: Videos heading, widget: string, required: false, default: "Videos" }
           - name: explorations
-            label: AI explorations (collab videos)
+            label: Videos
             label_singular: Video
             widget: list
             required: false
